@@ -3,6 +3,10 @@
 This project provides a fully automated, GitOps-enabled CI/CD infrastructure using Terraform and Amazon EKS. It provisions a secure, scalable, and production-grade Kubernetes environment that deploys and manages a 3-tier application along with essential DevOps tools like Jenkins, ArgoCD, SonarQube, Prometheus, and Grafana.
 
 ---
+## 📐 Architecture Overview
+
+![Arch Overview](Requirements/Arch%20Light.png)
+![Detailed Arch](Requirements/Arch%20L.png)
 
 ## 📁 Project Structure
 
