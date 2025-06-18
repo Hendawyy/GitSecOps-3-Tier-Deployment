@@ -5,7 +5,7 @@ This project provides a fully automated, GitOps-enabled CI/CD infrastructure usi
 ---
 ## 📐 Architecture Overview
 
-![Arch Overview](Requirements/Arch%20Light.png)
+![Arch Overview](Requirements/end-to-end-eks-gitops.png)
 ![Detailed Arch](Requirements/Arch%20L.png)
 
 ## 📁 Project Structure
@@ -16,15 +16,36 @@ GitSecOps-3-Tier-Deployment/
 ├── Argo
 │   ├── App.yaml
 │   └── secrets.yaml
-├── DevOps – Final Hands-On Project.pdf
 ├── Jenkins-Pipeline
 │   ├── Jenkinsfile
 │   └── PodTemplate.yaml
 ├── LICENSE
 ├── README.md
 ├── Requirements
-│   ├── EKS Self Managed.jpeg
-│   └── SelfManaged.png
+│   ├── Arch Dark.png
+│   ├── Arch Darl.png
+│   ├── Arch D.png
+│   ├── Arch Light.png
+│   ├── Arch L.png
+│   ├── DevOps – Final Hands-On Project.pdf
+│   ├── end-to-end-eks-gitops-light.PNG
+│   └── end-to-end-eks-gitops.png
+├── Screens
+│   ├── After.png
+│   ├── App Target in Prometheus .png
+│   ├── ArgoIUCommit.png
+│   ├── ArgoIULogs.png
+│   ├── ArgoUpdatingTag.png
+│   ├── Before.png
+│   ├── Certificate1.jpeg
+│   ├── Certificate2.jpeg
+│   ├── Cert.png
+│   ├── Grafana.png
+│   ├── Ingress.png
+│   ├── Mysql.png
+│   ├── Pipeline Stages.png
+│   ├── Redis.png
+│   └── Success.png
 └── Terraform
     ├── locals.tf
     ├── main.tf
@@ -156,7 +177,7 @@ GitSecOps-3-Tier-Deployment/
     ├── variables.tf
     └── vars.auto.tfvars
 
-32 directories, 111 files
+33 directories, 131 files
 
 ````
 
