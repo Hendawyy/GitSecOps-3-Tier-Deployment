@@ -170,10 +170,6 @@ GitSecOps-3-Tier-Deployment/
     ├── outputs.tf
     ├── providers.tf
     ├── Terraform.tf
-    ├── terraform.tfstate
-    ├── terraform.tfstate.1749479752.backup
-    ├── terraform.tfstate.1749479758.backup
-    ├── terraform.tfstate.backup
     ├── variables.tf
     └── vars.auto.tfvars
 
